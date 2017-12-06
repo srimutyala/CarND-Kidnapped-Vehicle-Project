@@ -6,6 +6,7 @@ In this project I implemented a 2 dimensional particle filter in C++. The partic
 [//]: # (Image References)
 
 [image1]: ./images/Kidnapped.jpg "Kidnapped"
+ 
 
 ## Inputs to the Particle Filter
 You can find the inputs to the particle filter in the `data` directory. 
@@ -31,7 +32,7 @@ The filter does satify these rewquirements.
 
 2. **Performance**: The particle filter completed execution within the time of 100 seconds.
 
-![alt text][image1]
+![Kidnapped](/images/Kidnapped.jpg)
 
 
 
