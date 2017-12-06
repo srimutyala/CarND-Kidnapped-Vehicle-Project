@@ -28,7 +28,6 @@ The filter does satify these rewquirements.
 2. **Performance**: The particle filter completed execution within the time of 100 seconds.
 
 ![Kidnapped](/images/Kidnapped.jpg)
-![Kidnapped](CarND-Kidnapped-Vehicle-Project/images/Kidnapped.JPG )
 
 
 
